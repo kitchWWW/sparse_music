@@ -5,7 +5,7 @@
 
 
 \header{
-title ="Slow Music"
+title ="Sparse Music"
 subtitle="
 %time
 "

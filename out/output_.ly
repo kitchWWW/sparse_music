@@ -28,16 +28,16 @@ tagline =""
 	\absolute{
 \override Staff.TimeSignature.stencil = ##f
 
-s4. d''4 \(c''8\) s4 
- s4. g'4 \(f'8\) s4 
- s4. f'4 \(g'8\) s4 
- s2 g'4 \( a'4 
-   ~ a'4   c''4 bes'8\) s2 s8 
-   \break  s2 e'4 s4 
- s4. a'8 \(g'4\) s4 
- s8 s2 b'8 \( c''4 
- a'8 bes'4\) s2 s8 
- s4. a'4 \(aes'4\) s8 
+s4. b8 \(c'4\) s4 
+ s4. g'8 \(a'4\) s4 
+ s2 g'4 s4 
+ s2 s4 a'4 \( 
+   ~ a'4   bes'4\) s4 s2 
+   \break  s4. f'4 \(e'4\) s8 
+ s2 b'4 \( a'4 
+ d''4\) s4 s2 
+ s4. a'8 \(b'4\) s4 
+ s4. a'8 \(aes'4\) s4 
  c'1 s4 
 	}
 
